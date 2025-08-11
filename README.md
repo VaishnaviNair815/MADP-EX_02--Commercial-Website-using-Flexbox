@@ -1,6 +1,5 @@
 # Ex02 Commercial Website
 ## Date: 11.08.2025
-
 ## AIM
 To create a commercial website using CSS Flexbox.
 
@@ -245,7 +244,8 @@ footer {
 }
 ```
 ## OUTPUT
-
-
+<img width="1893" height="871" alt="Screenshot 2025-08-11 201123" src="https://github.com/user-attachments/assets/1395ee22-e8ae-4f2f-b1e1-e210a25c6ab3" />
+<img width="1891" height="1025" alt="Screenshot 2025-08-11 201202" src="https://github.com/user-attachments/assets/a988bcb7-d0bd-44a6-8968-07fbd488bff3" />
+<img width="1899" height="1013" alt="Screenshot 2025-08-11 201324" src="https://github.com/user-attachments/assets/c331ce44-a2b4-4c2c-ab52-bd3d851e5f49" />
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
